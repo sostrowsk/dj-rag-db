@@ -9,3 +9,4 @@ build/
 venv/
 .idea/
 .vscode/
+*.log
